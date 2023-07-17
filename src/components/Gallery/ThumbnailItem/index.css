@@ -1,0 +1,13 @@
+.thumbnail-btn {
+  border: none;
+  margin-right: 8px;
+  border-radius: 8px;
+}
+
+.thumbnail-images {
+  opacity: 0.5;
+}
+
+.activate-img {
+  opacity: 1;
+}
